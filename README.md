@@ -49,7 +49,7 @@ Hi there, I'm Rahul Kumar Verma👋
 
  <p align="left">
   <a href="https://github.com/rahulverma78560/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulverma78560&private=true&theme=radical" width=400 height=340>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulverma78560&private=true&theme=tokyonight" width=400 height=340>
   
 </p>
 
