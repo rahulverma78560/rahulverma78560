@@ -3,9 +3,9 @@ Hi there, I'm Rahul Kumar Verma👋
 
 <h4>## I'm a Full Stack Developer!!</h4>
 <h4>🌱 I’m currently learning everything 🤣</h4>
-<br>
 <h4>🥅 2021 Goals: Contribute more to Open Source projects</h4>
-<br>
+<h4> 💬 Ask me about: Anything.<h4>
+<h4> 📫 How to reach me: rahulverma78560@gmail.com</h4>
 <h4>⚡ Fun fact: I love Coding.</h4>
 
 <p align="left">
@@ -47,7 +47,6 @@ Hi there, I'm Rahul Kumar Verma👋
   <a href="https://github.com/rahulverma78560/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rahulverma78560&private=true&theme=radical" width=400 height=340>
   
-    </a>
 </p>
 
 <h2 align='center'><i><a href="https://github.com/rahulverma78560/github-readme-activity-graph">Activity Graph 📈</i></h2>
