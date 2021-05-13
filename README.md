@@ -1,7 +1,6 @@
 Hi there, I'm Rahul Kumar Verma👋
 <br>
-
-<h4>## I'm a Full Stack Developer!!</h4>
+## I'm a Full Stack Developer!!
 <h4>🌱 I’m currently learning everything 🤣</h4>
 <h4>🥅  2021 Goals: Contribute more to Open Source projects</h4>
 <h4> 💬  Ask me about: Anything.<h4>
