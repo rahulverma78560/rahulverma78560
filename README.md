@@ -47,6 +47,9 @@ Hi there, I'm Rahul Kumar Verma👋
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulverma78560&langs_count=8)](https://github.com/rahulverma78560/github-readme-stats)
+
+
  <p align="left">
   <a href="https://github.com/rahulverma78560/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rahulverma78560&private=true&theme=dark" width=400 height=340>
