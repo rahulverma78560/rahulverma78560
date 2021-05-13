@@ -2,13 +2,11 @@ Hi there, I'm Rahul Kumar Verma👋
 <br>
 
 <h4>## I'm a Full Stack Developer!!</h4>
-🌱 I’m currently learning everything 🤣
+<h4>🌱 I’m currently learning everything 🤣</h4>
 <br>
-🥅 2021 Goals: Contribute more to Open Source projects
+<h4>🥅 2021 Goals: Contribute more to Open Source projects</h4>
 <br>
-⚡ Fun fact: I love Coding.
-
-<br>
+<h4>⚡ Fun fact: I love Coding.</h4>
 
 <p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
@@ -48,10 +46,9 @@ Hi there, I'm Rahul Kumar Verma👋
  <p align="left">
   <a href="https://github.com/rahulverma78560/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rahulverma78560&private=true&theme=radical" width=400 height=340>
-  <img src="https://github.com/rahulverma78560/rahulverma78560/blob/main/animation_200_kmlvjsel.gif" height=340/>
+  
     </a>
 </p>
-Ps show some Love by starring some repo's🤞🏻😉.<br />
 
 <h2 align='center'><i><a href="https://github.com/rahulverma78560/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
@@ -59,5 +56,6 @@ Ps show some Love by starring some repo's🤞🏻😉.<br />
  <img src="https://activity-graph.herokuapp.com/graph?username=rahulverma78560&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+Ps show some Love by starring some repo's🤞🏻😉.<br />
 
 ---
