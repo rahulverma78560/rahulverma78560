@@ -1,9 +1,11 @@
 Hi there, I'm Rahul Kumar👋
-
+<br>
 I'm a Full Stack Developer !!
+<br>
 🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
+<br>
 🥅 2021 Goals: Contribute more to Open Source projects
+<br>
 ⚡ Fun fact: I love to draw.
 
 ### Spotify Playing 🎧
