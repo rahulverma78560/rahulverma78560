@@ -47,8 +47,8 @@ Hi there, I'm Rahul Kumar👋
 
 <h2 align='center'><i><a href="https://github.com/rahulverma78560/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/prajjwalkumar17/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=prajjwalkumar17&theme=react-dark&area=true&hide_border=true" width="100%">
+<a href="https://github.com/rahulverma78560/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=rahulverma78560&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
 
