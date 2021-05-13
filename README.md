@@ -18,9 +18,9 @@ Hi there, I'm Rahul Kumar Verma👋
 
 ### Social Media
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rv983444)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-kumar-112aa21aa/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rahulverma78560/?hl=en)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://i.pinimg.com/originals/b8/c8/46/b8c846a25866985a5719049b9f0c5890.png" />](https://twitter.com/rv983444)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />](https://www.linkedin.com/in/rahul-kumar-112aa21aa/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" />](https://www.instagram.com/rahulverma78560/?hl=en)
 
 <br />
 
