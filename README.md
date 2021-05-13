@@ -7,7 +7,7 @@ Hi there, I'm Rahul Kumar Verma👋
 <h4> 📫  How to reach me: rahulverma78560@gmail.com</h4>
 <h4>⚡ Fun fact: I love Coding.</h4>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/rahulverma78560/rahulverma78560/blob/main/giphy.gif?raw=true" width=400 height=340>
 </p>
 
