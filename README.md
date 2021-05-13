@@ -1,11 +1,11 @@
 Hi there, I'm Rahul Kumar Verma👋
 <br>
 ## I'm a Full Stack Developer!!
-<h4>🌱 I’m currently learning everything 🤣</h4>
-<h4>🥅  2021 Goals: Contribute more to Open Source projects</h4>
-<h4> 💬  Ask me about: Anything.<h4>
-<h4> 📫  How to reach me: rahulverma78560@gmail.com</h4>
-<h4>⚡ Fun fact: I love Coding.</h4>
+<h4>🌱  I’m currently learning everything 🤣</h4>
+<h4>🥅    2021 Goals: Contribute more to Open Source projects</h4>
+<h4> 💬    Ask me about: Anything.<h4>
+<h4> 📫    How to reach me: rahulverma78560@gmail.com</h4>
+<h4>⚡   Fun fact: I love Coding.</h4>
 
 <p align="left">
   <img src="https://github.com/rahulverma78560/rahulverma78560/blob/main/giphy.gif?raw=true" width=400 height=340>
