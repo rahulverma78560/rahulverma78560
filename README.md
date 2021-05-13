@@ -3,9 +3,9 @@ Hi there, I'm Rahul Kumar Verma👋
 
 <h4>## I'm a Full Stack Developer!!</h4>
 <h4>🌱 I’m currently learning everything 🤣</h4>
-<h4>🥅 2021 Goals: Contribute more to Open Source projects</h4>
-<h4> 💬 Ask me about: Anything.<h4>
-<h4> 📫 How to reach me: rahulverma78560@gmail.com</h4>
+<h4>🥅  2021 Goals: Contribute more to Open Source projects</h4>
+<h4> 💬  Ask me about: Anything.<h4>
+<h4> 📫  How to reach me: rahulverma78560@gmail.com</h4>
 <h4>⚡ Fun fact: I love Coding.</h4>
 
 <p align="left">
