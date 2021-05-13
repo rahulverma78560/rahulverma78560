@@ -60,6 +60,5 @@ Hi there, I'm Rahul Kumar Verma👋
  <img src="https://activity-graph.herokuapp.com/graph?username=rahulverma78560&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-Ps show some Love by starring some repo's🤞🏻😉.<br />
 
 ---
