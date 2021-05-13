@@ -18,9 +18,9 @@ Hi there, I'm Rahul Kumar Verma👋
 
 ### Social Media
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://i.pinimg.com/originals/b8/c8/46/b8c846a25866985a5719049b9f0c5890.png" />](https://twitter.com/rv983444)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0gYdY9Z0fBrJ6ljQIj3pbEBvIR0Jn34fq1g&usqp=CAU" />](https://twitter.com/rv983444)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />](https://www.linkedin.com/in/rahul-kumar-112aa21aa/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.transparentpng.com/thumb/logo-instagram/C3469L-new-logo-instagram-clipart-photos.png" />](https://www.instagram.com/rahulverma78560/?hl=en)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.pinimg.com/originals/11/2d/f6/112df6adb5d802cc693e99137a0f4381.png" />](https://www.instagram.com/rahulverma78560/?hl=en)
 
 <br />
 
