@@ -1,4 +1,4 @@
-Hi there, I'm Rahul Kumar👋
+Hi there, I'm Rahul Kumar Verma👋
 <br>
 
 <h4>## I'm a Full Stack Developer!!</h4>
@@ -7,6 +7,7 @@ Hi there, I'm Rahul Kumar👋
 🥅 2021 Goals: Contribute more to Open Source projects
 <br>
 ⚡ Fun fact: I love Coding.
+
 <br>
 
 <p align="left">
@@ -43,7 +44,14 @@ Hi there, I'm Rahul Kumar👋
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
+ <p align="left">
+  <a href="https://github.com/rahulverma78560/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulverma78560&private=true&theme=radical" width=400 height=340>
+  <img src="https://github.com/rahulverma78560/rahulverma78560/blob/main/animation_200_kmlvjsel.gif" height=340/>
+    </a>
+</p>
+Ps show some Love by starring some repo's🤞🏻😉.<br />
 
 <h2 align='center'><i><a href="https://github.com/rahulverma78560/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
