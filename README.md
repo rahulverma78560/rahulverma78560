@@ -1,6 +1,7 @@
 Hi there, I'm Rahul Kumar Verma👋
 <br>
-[![Website](https://img.shields.io/website?label=rahulverma.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://portfolio-401d4.web.app/)
+<br>
+[![Website](https://img.shields.io/website?label=rahulverma&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://portfolio-401d4.web.app/)
 <br>
 ## I'm a Full Stack Developer!!
 <h4>🌱  I’m currently learning everything 🤣</h4>
