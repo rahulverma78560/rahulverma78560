@@ -19,7 +19,7 @@ Hi there, I'm Rahul Kumar Verma👋
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/316tufhp7geauhbkzji344yqhara)
 
 ### Social Media
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://portfolio-401d4.web.app/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.pinclipart.com/picdir/middle/577-5779107_globe-clip-art-world-logo-transparent-background-png.png" />](https://portfolio-401d4.web.app/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />](https://www.linkedin.com/in/rahul-kumar-112aa21aa/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.pinimg.com/originals/11/2d/f6/112df6adb5d802cc693e99137a0f4381.png" />](https://www.instagram.com/rahulverma78560/?hl=en)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.apacph.org/wp/wp-content/uploads/2014/03/Twitter-Logo-New-.png" />](https://twitter.com/rv983444)
