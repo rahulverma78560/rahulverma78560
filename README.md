@@ -1,4 +1,4 @@
-Hi there, I'm Rahul Kumar Verma👋
+<h1>Hi there, I'm Rahul Kumar Verma  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <br>
 <br>
 [![Website](https://img.shields.io/website?label=rahulverma.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulverma.tech)
