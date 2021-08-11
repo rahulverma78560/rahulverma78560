@@ -4,8 +4,8 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-![Website](https://img.shields.io/website?label=rahulverma.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://rahulverma.tech)
-![Website](https://img.shields.io/website?label=rahulverma.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://rahulverma.codes)
+[![Website](https://img.shields.io/website?label=rahulverma.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulverma.tech)
+[![Website](https://img.shields.io/website?label=rahulverma.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulverma.codes)
 
 <br>
 ## I'm a Full Stack Developer!!
