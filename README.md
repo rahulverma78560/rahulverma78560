@@ -1,4 +1,4 @@
-Hi there, I'm Rahul Kumar Verma  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+Hi there, I'm Rahul Kumar Verma  
 <br>
 <br>
 
