@@ -41,7 +41,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="MongoDB" width="26px" src="http://mongodb-js.github.io/leaf/mongodb-leaf_512x512@2x.png" />
-<img align="left" alt="Express" width="26px" src=https://banner2.cleanpng.com/20180605/al/kisspng-mean-solution-stack-express-js-node-js-javascript-5b1647bd4ce665.473039571528186813315.jpg />
+<img align="left" alt="Express" width="26px" src="https://github.com/rahulverma78560/rahulverma78560/blob/main/expressjs.png?raw=true" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
